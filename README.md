@@ -1,2 +1,2 @@
-# pateyk
+# patryk
 siema
